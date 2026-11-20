@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated at runtime (keep sample outputs you want to showcase in /images and /reports)
+outputs/*
+!outputs/.gitkeep
